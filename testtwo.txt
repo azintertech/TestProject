@@ -6,3 +6,6 @@ kl;adsjflk
 lkj;kl;
 :w
 
+test
+tests
+tests
